@@ -1,11 +1,12 @@
 {
-    "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appID": "BXU3B85A8F.com.2359media.SGHBedsideCompanion.SghStaging",
-          "paths": [ "*" ]
-        }
-      ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "BXU3B85A8F.com.2359media.SGHBedsideCompanion.SghStaging",
+			"paths": ["*"]
+		}]
+	},
+	"authsrv": {
+		"apps": ["BXU3B85A8F.com.2359media.SGHBedsideCompanion.SghStaging"]
+	}
 }
