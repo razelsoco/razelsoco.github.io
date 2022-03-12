@@ -519,7 +519,9 @@
     border: .07em solid rgba(0,0,0,.1);
     border-radius: 50%;
 }
-
+  .bxl-tableau:before {
+    content: "\e900";
+  }
   .bxl-500px:before {
     content: "\e900";
   }

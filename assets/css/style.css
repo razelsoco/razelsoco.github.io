@@ -26,7 +26,37 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
+.hero-pp {
+  width: 130px;
+  margin-bottom: 15px;
+}
+.ic {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.ic-tableau {
+  /* Using currentColor above lets
+  us use `color` for changing the color
+  of our icons: */
+  color: black;
+  
+  /* The width and height of the SVG
+  was previously set to 1em.
+  This allows us to use `font-size`
+  to change the size of our icon: */
+  font-size: 24px;
+}
 
+.ic-tableau:hover {
+  /* Using currentColor above lets
+  us use `color` for changing the color
+  of our icons: */
+  color: #0563bb;
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
