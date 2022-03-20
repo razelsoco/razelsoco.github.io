@@ -103,7 +103,7 @@
 
           // POST values in the background the the script URL
           $.ajax({
-              type: "GET",
+              type: "POST",
               url: url,
               data: $(this).serialize(),
               success: function (data)
