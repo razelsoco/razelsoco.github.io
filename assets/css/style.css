@@ -745,7 +745,7 @@ section {
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
 }
-.portfolio-details .portfolio-description {
+.portfolio-details {
   padding-top: 30px;
 }
 .portfolio-details .portfolio-description h2 {
