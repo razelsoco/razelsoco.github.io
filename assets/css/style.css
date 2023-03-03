@@ -1107,3 +1107,13 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+/*--------------------------------------------------------------
+# Bootsrap customization
+--------------------------------------------------------------*/
+
+.portfolio-wrap {
+  background:rgb(221, 226, 226) !important;
+  padding: 20px;
+  border-radius: 20px;
+}
